@@ -1,6 +1,6 @@
 title:            이상한 스터디 블로그
 description:      이제 마음 놓고 화장실을 갈 수 있다. 
-url:              http://krazyeom.github.io/Weird-Meetup/ 
+url:              http://krazyeom.github.io 
 signoff:          krazyeom
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
