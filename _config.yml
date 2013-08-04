@@ -12,9 +12,9 @@ links:
   - name:         Blog
     url:          /blog 
 #    external:     true
-#  - name:         Email
-#    url:          mailto:krazyeom@gmail.com
-#    external:     true
+  - name:         참여/개설 Email
+    url:          mailto:krazyeom@gmail.com
+    external:     true
 #  - name:         GitHub
 #    url:          http://github.com/krazyeom
 #    external:     true
